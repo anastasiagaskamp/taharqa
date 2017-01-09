@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel:700|Ubuntu');
+body {
+  margin: 0 auto;
+  max-width: 600px;
+  font-family: Ubuntu, Arial, sans-serif;
+  font-size: 18px;
+  background-image: url("https://res.cloudinary.com/qclarinetx/image/upload/v1483740711/background_ssbtvh.png");
+  background-size: cover;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  text-shadow: 4px 4px 4px #000000;
+}
+
+p,
+h1 {
+  padding: 20px;
+}
+
+#caption {
+  text-align: center;
+  font-size: 15px;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: Cinzel, serif;
+  text-shadow: 2px 2px 4px;
+}
+
+.jumbotron {
+  border-radius: 10px;
+}
+
+li {
+  font-size: 18px;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  padding: 20px;
+}
+
+h3, p {
+  padding-left: 10px;
+}
+article img {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.writing {
+  border-radius: 25px;
+  width: 100%;
+}
+
+.shorter {
+  width: 30%;
+}
+
+.thumbnail, .interior {
+  width: 100%;
+  padding: 10px;
+}
+
+article ul li {
+  font-size: 18px;
+}
+h1 {font-size: 48px;}
+h3 {font-size: 32px;}
+nav ul li {font-size: 19px;}
+p {font-size: 18px;}
+footer {font-size: 14px;}
