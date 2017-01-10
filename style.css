@@ -4,7 +4,7 @@ body {
   max-width: 600px;
   font-family: Ubuntu, Arial, sans-serif;
   font-size: 18px;
-  background-image: url("https://res.cloudinary.com/qclarinetx/image/upload/v1483740711/background_ssbtvh.png");
+  background-image: url("background.png");
   background-size: cover;
 }
 
